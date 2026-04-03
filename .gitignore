@@ -1,0 +1,58 @@
+# Flutter/Dart build artifacts
+**/build/
+**/.dart_tool/
+**/.pub-cache/
+**/.pub/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/doc/api/
+**/coverage/
+
+# Android generated files
+**/android/**/debug/
+**/android/**/profile/
+**/android/**/release/
+**/android/.gradle/
+**/android/local.properties
+
+# iOS/macOS generated files
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Windows/Linux generated files
+**/windows/flutter/generated_plugin_registrant.*
+**/linux/flutter/generated_plugin_registrant.*
+
+# Common binary/bytecode
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.class
+*.o
+*.obj
+*.pyc
+*.dill
+*.snapshot
+*.dart.js
+*.info.json
+
+# IDE/editor files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.history
+*.log
+
+# Sensitive files
+.env
+app.*.symbols
+app.*.map.json
+is this all that is needed
