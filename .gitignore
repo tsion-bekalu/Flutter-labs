@@ -55,4 +55,3 @@
 .env
 app.*.symbols
 app.*.map.json
-is this all that is needed
